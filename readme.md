@@ -13,3 +13,9 @@ instalação do django:
 
 confirmando instalação do django pela versão do django-admin:
 > django-admin --version
+
+Iniciando estrutura do projeto django:
+> django-admin startproject src .
+
+Iniciando o servidor do projeto:
+> python3 manage.py runserver
